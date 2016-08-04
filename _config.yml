@@ -1,0 +1,14 @@
+layout_spectrum: 0.6436528044287115
+typography_spectrum: 0.9760460811667144
+color:
+  brandStrength: 0.245002671610564
+  lightness: 0.5305015118792653
+  saturation: 0.7491145771928132
+  rhythmicContrast: 0.4141054837964475
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: iPadProPhotography
